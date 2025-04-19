@@ -1,0 +1,201 @@
+*{
+    margin:0;
+    padding:0;
+}
+#share{
+    background-image:url("bgshare.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#head{
+    color:black;
+    font-family:fantasy;
+    text-align:center;
+    margin-top: 400px;
+    font-size:160px;
+    font-weight:lighter;
+    letter-spacing:5px;
+    line-height:140px;
+}
+
+#form{
+    padding-left:300px;
+    font-size:45px;
+}
+p{
+    text-align: center;
+    font-size:40px;
+    font-weight:lighter;
+    color:rgb(5, 5, 113)
+}
+.textbox{
+    height:35px;
+    width:500px;
+    background-color:transparent;
+}
+.choices1{
+    margin-left:40px;
+    width:30px;
+    height:30px;
+}
+label.choices1{
+    margin-left:0;
+    font-weight:lighter;
+    font-size:30px;
+}
+#headsec{
+    margin-top:0;
+    height:75px;
+    
+}
+hr{
+    border-color:aliceblue;
+    width:100%;
+    
+}
+img{
+    float:left;
+}
+#sections{
+    float:right;
+    margin-top:25px;
+}
+.a{
+    text-decoration:none;
+    font-weight:bolder;
+    color:aliceblue;
+    margin-right:75px;
+    text-align: right;
+    padding-top:10px;
+    font-size:22px;
+}
+.choices2{
+    margin-left:500px;
+    width:200px;
+    height:50px;
+   
+    font-size: 40px;
+    font-family: sans-serif;
+}
+#headsec{
+    position:sticky;
+    top:0px;
+    background-color: black;
+    z-index: 2;
+}
+#users{
+    background-color:rgb(245, 217, 231);
+    height: 1500px;
+    width:95%;
+    margin-left:50px;
+    margin-top:140px;
+    margin-bottom:140px;
+    background-image: url("beeunder.png"),url("beeup-.png");
+    background-position-y:150px,-50px;
+    background-position-x:-100px,300px ;
+    background-repeat: no-repeat;
+    background-size:1800px,1000px;
+}
+#usershead{
+    font-family: cursive;
+    text-align: center;
+    position:relative;
+    top:200px;
+    font-size: 80px;
+}
+#userp{
+    text-align: center;
+    position:relative;
+    top:200px;
+    font-size: 30px;
+    font-family: fantasy;
+    text-transform: bold  ;  ;
+}
+#story{
+    display:inline-block;
+    height:500px;
+    width:400px;
+    background-color:aliceblue;
+    position: relative;
+    left:360px;
+    top:285px;
+    border-radius: 10%;
+}
+#pic{
+    display:inline-block;
+    height:500px;
+    width:400px;
+    background-color:aliceblue;
+    position: relative;
+    left:450px;
+    top:130px;
+    border-radius: 10%;
+    
+}
+#imgpic{
+    position:relative;
+    left:60px;
+    height:300px;
+    width:300px;
+}
+#contact{
+    background-color:rgb(233, 242, 246);;
+    height: 1500px;
+    width:100%;
+    background-image: url("bgcont.png");
+    background-repeat: no-repeat;
+    background-size: 550px;
+    background-position: center;
+}
+#number{
+    position: relative;
+    top:600px;
+    left:650px;
+}
+#num{
+    position: relative;
+    top:730px;
+    left:500px;
+    color:rgb(77, 14, 135);
+    font-size: 20px;
+}
+#mail{
+    position: relative;
+    top:740px;
+    left:800px;
+
+}
+#gmail{
+    position: relative;
+    top:840px;
+    left:600px;
+    color:rgb(77, 14, 135);
+    font-size: 20px;
+}
+#insta{
+    position: relative;
+    top:40px;
+   left: -180px;
+
+}
+#instagram{
+    position: relative;
+    top:1010px;
+    left:250px;
+    color:rgb(77, 14, 135);
+    font-size: 20px;
+}
+#face{
+    position: relative;
+    top:10px;
+   left: 310px;
+
+}
+#facebook{
+    position: relative;
+    top:1150px;
+    left:360px;
+    color:rgb(77, 14, 135);
+    font-size: 20px;
+}
+

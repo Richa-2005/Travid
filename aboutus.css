@@ -1,0 +1,216 @@
+*{
+    margin:0;
+    padding:0;
+}
+#aboutus{
+    background-image:url("woodenbg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+
+}
+#head{
+    margin-top:0;
+    height:75px;
+    position:sticky;
+    top:0px;
+    background-color: black; 
+    z-index: 2;
+    
+}
+hr{
+    border-color: black;
+    width:100%;
+    
+}
+img{
+    float:left;
+}
+#sections{
+    float:right;
+    margin-top:25px;
+}
+a{
+    text-decoration:none;
+    font-weight:bolder;
+    color:white;
+    margin-right:75px;
+    text-align: right;
+    padding-top:10px;
+    font-size:22px;
+}
+h1{
+    font-size:120px;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: lighter;
+    border-color: white;
+}
+#para1{
+    width:95%;
+    font-size:40px;
+    text-align:center;
+    background-color:rgb(243, 225, 202);
+    margin:auto;
+    word-spacing:20px;
+    line-height :60px;
+}
+#lightbg{
+    width:70%;
+    background-color:rgb(243, 225, 202);
+    margin:auto;
+}
+#categories{
+    background-image:url("categorybg.png");
+    background-repeat: no-repeat;
+    background-size:cover;
+    height:2000px;
+    width:100%;
+}
+#heading{
+    text-align: center;
+    font-size: 150px;
+    font-family:fantasy;
+    color:black;
+}
+#subhead{
+    text-align: center;
+    font-size: 30px;
+    text-decoration: solid;
+    font-family:fantasy;
+    color:black;
+}
+#weather{
+    height:340px;
+    width:260px;
+    position:relative;
+    background-color: rgb(255, 255, 233);
+    left:130px;
+    top: 55px;
+    border: 5px double green;
+}
+#occasion{
+    height:340px;
+    width:260px;
+    position:relative;
+    background-color: rgb(255, 255, 233);
+    left:930px;
+    top: -640px;
+    border: 5px double green;
+}
+#sports{
+    height:340px;
+    width:260px;
+    position:relative;
+    background-color: rgb(255, 255, 233);
+    left:530px;
+    top: 55px;
+    border: 5px double green;
+}
+#festivals{
+    height:340px;
+    width:260px;
+    position:relative;
+    background-color: rgb(255, 255, 233);
+    left:1320px;
+    top: -640px;
+    border: 5px double green;
+}
+#pic1{
+    background-color: black;
+    height:250px;
+    width:230px;
+    position:relative;
+    left:15px;
+    top:20px;
+    background-image: url("weather.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#pic2{
+    background-color: black;
+    height:250px;
+    width:230px;
+    position:relative;
+    left:15px;
+    top:20px;
+    background-image: url("sports.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#pic3{
+    background-color: black;
+    height:250px;
+    width:230px;
+    position:relative;
+    left:15px;
+    top:20px;
+    background-image: url("occasion.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#pic4{
+    background-color: black;
+    height:250px;
+    width:230px;
+    position:relative;
+    left:15px;
+    top:20px;
+    background-image: url("festival.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.name{
+    width:260px;
+    position:relative;
+    top:30px;
+    text-align: center;
+    font-size: 40px;
+}
+#op1{
+    display:none;
+    position: relative;
+    top: 100px;
+    color:black;
+}
+.textcolor{
+    color:black;
+    line-height: 40px;
+    font-size: 30px;
+}
+ul{
+    list-style-type:none;
+}
+iframe{
+    position:relative;
+    left:500px;
+    top:-300px;
+    height:1000px;
+    width:1150px;
+    display:none;
+}
+#back{
+    color:black;
+    text-decoration: underline;
+    position:relative;
+    left:40px;
+    display:none;
+}
+#op2{
+    display:none;
+    position: relative;
+    top: 100px;
+    color:black;
+}
+#op3{
+    display:none;
+    position: relative;
+    top: 100px;
+    color:black;
+}
+#op4{
+    display:none;
+    position: relative;
+    top: 100px;
+    color:black;
+}
