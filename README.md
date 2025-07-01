@@ -43,7 +43,7 @@ Since this is a static website:
 
 ---
 <pre>
-```markdown
+
 ## 📁 Folder Structure
 
 TRAVID/
@@ -85,7 +85,7 @@ TRAVID/
 ├── Traviddocx.pages        → Design/planning docs
 ├── Travid.docx
 └── README.md               → Project overview
-```
+
 </pre>
 
 ---
