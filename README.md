@@ -42,7 +42,10 @@ Since this is a static website:
 - Or host the site using GitHub Pages for others to access online
 
 ---
+<pre>
+```markdown
 ## 📁 Folder Structure
+
 TRAVID/
 ├── index.html              → Main homepage
 ├── aboutus.html            → About Us page
@@ -82,6 +85,8 @@ TRAVID/
 ├── Traviddocx.pages        → Design/planning docs
 ├── Travid.docx
 └── README.md               → Project overview
+```
+</pre>
 
 ---
 
